@@ -1,0 +1,34 @@
+.mad{
+    display: flex;
+    gap: 20px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 90vh;
+}
+
+.goat{
+    display: flex;
+    height: 70vh;
+    width: 20vw;
+    flex-direction: column;
+    margin: 1em;
+}
+.goat span{
+    height: 50vh;
+    border: 1px solid black;
+    padding: 0;
+    margin: 0;
+    display: flex;
+}
+
+
+
+.goat h4{
+    height: 10vh;
+    margin: 0;
+    padding: 0;
+    display: flex;
+    align-items: center;
+    font-size:16px;
+}

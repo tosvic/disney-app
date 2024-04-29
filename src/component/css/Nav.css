@@ -1,0 +1,27 @@
+.Nav{
+    height: 10vh;
+    display: flex;
+    width: 100vw;
+    /* justify-content: center; */
+    align-items: center;
+}
+.left{
+    display: flex;
+    height: 7vh;
+    overflow: hidden;
+}
+a{
+    text-decoration: none;
+    color: black;
+    margin: 0 15px;
+    font-size: 18px;
+}
+.other{
+    margin: 10px 20px;
+}
+
+
+.logo img {
+    height: 6vh;
+    overflow: hidden;
+}

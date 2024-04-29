@@ -1,0 +1,35 @@
+.h1{
+    height: 80vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    
+}
+
+h2{
+    height: 20vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.h4{
+    height: 60vh;
+    width: 80vw;
+    gap: 8px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    background: url('../../assets/IMG-20240321-WA0031.jpg');
+    background-size: cover;
+    color: white;
+    
+
+}
+.h4 span{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}

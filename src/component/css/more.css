@@ -1,0 +1,33 @@
+.emp{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    height: 70vh;
+}
+
+.emp h2{
+    height: 20vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 30px;
+}
+
+
+.spag{
+    width: 70vw;
+    height: 50vh;
+    background: url(../../assets/IMG-20240321-WA0014.jpg);
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.spag h3{
+    width: 22vw;
+    text-align: center;
+    color: white;
+    font-size: 40px;
+}

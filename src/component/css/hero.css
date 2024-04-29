@@ -1,0 +1,41 @@
+#hero{
+    background: url("../../assets/IMG-20240321-WA0030.jpg");
+    height: 87vh;
+    width: 100vw;
+    background-repeat: no-repeat;
+    background-size: cover;
+    margin: 0;
+    padding: 0;
+    cursor: pointer;
+    transition: linear 1s;
+}
+
+
+#hero:hover{
+    transition-timing-function: ease;
+
+}
+
+.topmost{
+    height: 85vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    color: grey;
+    padding-left: 45%;
+}
+
+
+.adut{
+    font-size: 70px;
+    font-weight: 500;
+    margin: 0;
+    padding: 0;
+    letter-spacing: -4px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+.gold{
+    margin-top: 0;
+    margin-bottom: 2em;
+}
